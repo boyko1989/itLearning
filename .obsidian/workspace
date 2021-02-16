@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "e4975d9735c72bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0fdb1502c944e6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Базовые_селекторы.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c331fb1d9acacfec",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4a398720272744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d95950ce7b028443",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b301a000ec7086ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "right": {
+    "id": "78dc0f0de32e30bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "282acae90db617eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7581e09c4828839",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Базовые_селекторы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Базовые_селекторы.md",
+    "Комбинаторы.md",
+    "Специфичность.md",
+    "Селекторы_псевдоэлементов.md",
+    "Селекторы_псевдоклассов.md",
+    "Селекторы_атрибутов.md",
+    "Селекторы.md",
+    "Селекторы атрибутов.md",
+    "y.md",
+    "Untitled.md"
+  ]
+}
