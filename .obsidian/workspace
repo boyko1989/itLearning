@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0a0fdb1502c944e6",
+        "id": "2857decf242ef4f8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Базовые_селекторы.md",
-            "mode": "source"
+            "file": "контроль_наследования.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237
+    "width": 184
   },
   "right": {
     "id": "78dc0f0de32e30bb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовые_селекторы.md",
+                "file": "контроль_наследования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Базовые_селекторы.md",
-    "Комбинаторы.md",
+    "контроль_наследования.md",
+    "исходный_порядок.md",
     "Специфичность.md",
+    "наследование.md",
+    "кнтроль_наследования.md",
+    "Каскадность.md",
+    "источник_стилей.md",
+    "Untitled.md",
     "Селекторы_псевдоэлементов.md",
-    "Селекторы_псевдоклассов.md",
-    "Селекторы_атрибутов.md",
-    "Селекторы.md",
-    "Селекторы атрибутов.md",
-    "y.md",
-    "Untitled.md"
+    "Селекторы_псевдоклассов.md"
   ]
 }
